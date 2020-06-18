@@ -2,4 +2,4 @@
 
 收集了很多实用的网址
 网址导航
-访问地址：kjyds.github.io
+访问地址：itinglight.github.io
