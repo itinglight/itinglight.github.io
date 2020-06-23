@@ -13,7 +13,7 @@ h1{
 body{
 
   
-    background:url(./img/52-3.png);
+    background:url(./img/pattern-1981.gif);
  
     
 }
@@ -21,4 +21,7 @@ body{
 .title_1{
     color:#ff2600;
 
+}
+a{
+    color:black ;
 }
